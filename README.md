@@ -1,5 +1,5 @@
 # BitTorrent Report
-By: Cody Li, Shreyas Pant, and Aditya Sharda (asharda-cli12316-spant1)
+By: Cody Li, Shreyas Pant, and Aditya Sharda
 
 ## Feature List	
 Communication with the tracker using HTTP GET request to get list of peers in the swarm
