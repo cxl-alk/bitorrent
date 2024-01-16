@@ -34,3 +34,8 @@ Our client tends to receive excess piece packets even after the download has com
 
 ## Collaboration
 Completing this project was a joint effort amongst all members of our team. We would join zoom calls everyday to debug and think of ways to implement the BitTorrent client together. Utilizing a peer-programming structure, our group of three would have a dedicated shared screen on one of our devices where we all had remote control. With the collision of ideas on implementation, we were able to overcome challenges mentioned above and increase productivity as we were always on the same page. A bonus was avoiding merge conflicts; however, we still prioritized proper CI/CD structure and utilized branches for certain features in order to prevent issues from arising when testing specific features. Overall, the design and functionality of the project was done collaboratively and there was never a discrepancy within our effort levels as we all understood the gravity of this project. 
+
+## Running
+```
+python3 main.py <torrent-file> -d <download> -a <address:port>
+```
